@@ -260,7 +260,7 @@ function positionNewFood() {
         log = log + '\n';
     }
     console.log(log);
-    /* </debuggung code> */
+    /* </debugging code> */
 
     for (var i = 0; i < R; i++) {
         for (var j = 0; j < C; j++) {
